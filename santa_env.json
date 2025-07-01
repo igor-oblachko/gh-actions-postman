@@ -1,0 +1,39 @@
+{
+	"id": "3442ab66-1b26-40f5-8edf-6e2d9e901f40",
+	"name": "santa-ommelnikova-test",
+	"values": [
+		{
+			"key": "password",
+			"value": "yV5i1jJycxgkzom",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://santa-secret.ru/api",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userName",
+			"value": "news18@cancer-treatment.xyz",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "initialPassword",
+			"value": "yV5i1jJycxgkzom",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": "8389001",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-07-01T20:39:58.351Z",
+	"_postman_exported_using": "Postman/11.51.6"
+}
